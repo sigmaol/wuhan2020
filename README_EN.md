@@ -1,3 +1,25 @@
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
+
+[![Github](https://img.shields.io/badge/wuhan2020-Community%20Website-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/)
+[![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
+
+### Volunteer entrance         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
+
+- [Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention](#information-collection-platform-for-wuhan-2019-ncov-epidemic-prevention)
+  - [Collaboration process](#collaboration-process)
+  - [Major Open Source Sub-Projects](#major-open-source-sub-projects)
+    - [Data Synchronization](#data-synchronization)
+    - [Web Front-end Development](#web-front-end-development)
+    - [API Service](#api-service)
+    - [Map Visualization Components](#map-visualization-components)
+    - [Online Form Editing Service(ShiMo) Synchronization Component](#online-form-editing-serviceshimo-synchronization-component)
+  - [Data Submission](#data-submission)
+    - [Online Document Service Shimo Edit Link：](#online-document-service-shimo-edit-link)
+  - [Contribution Guide](#contribution-guide)
+  - [Data and Information Collection Guide](#data-and-information-collection-guide)
+- [Slack Communication Group](#slack-communication-group)
+  - [Slack Channel Navigation](#slack-channel-navigation)
+
 # Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention
 This translation updates to 18:30(CST), 1/30/2020.
 
@@ -37,7 +59,7 @@ All of the parts are processed automatically and won't require manual work excep
 
 - Codebase：https://github.com/wuhan2020/shimo-sheet2json
 
-## Data Submission 
+## Data Submission
 
 The information collected by the platform includes the following types of data, please categorize and submit separately.
 
@@ -62,9 +84,11 @@ Please click [here](./CONTRIBUTING_EN.md)
 Please click [here](./INFORMATION_GUIDE_EN.md)
 
 # Slack Communication Group
-Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
+
+Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 ## Slack Channel Navigation
+
 (It requires you to join the Slack Group first following the above link)
 
 | Channel Name               | Pointer              |
@@ -83,13 +107,19 @@ Click here to join the [Slack Communication Group](https://join.slack.com/t/wuha
 | Team of Oversea Folks               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
 | Team of Slack Channel Operations      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
+# E-mail List
+
+wuhan2020 e-mail list: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([subscribe](mailto:wuhan2020+subscribe@googlegroups.com), [unsubscribe](mailto:wuhan2020+unsubscribe@googlegroups.com), [archive](https://groups.google.com/forum/#!forum/wuhan2020))
+
 Welcome to join together to explore all kinds of technical and non-technical issues, let's all work together and united to overcome the difficulties and fight against the virus!
 
-FAQ arranged，[click here](./FAQ.md).
+# FAQ
 
-FAQ of Technology Group, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
+Selected FAQ，[click here](https://community.wuhan2020.org.cn/en-us/docs/overview/faq.html).
+
+FAQ for Info Collection Team, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 
 Follow [Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
 ---
-Author: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
+Translator: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
